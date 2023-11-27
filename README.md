@@ -6,7 +6,7 @@
 
 <h1 align="center">T O T E M</h1>
 
-TOTEM is a 38 key column-staggered choc split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040.
+TOTEM is a 38 key column-staggered choc split keyboard. It is meant to be used with a SEEED XIAO BLE or RP2040.
 It was created for the SEEED XIAO keyboard contest.\
 [Here](https://www.hackster.io/geist/totem-a-tiny-splitkeyboard-with-splay-cb2e43) you can read about the process of making it.
 
@@ -26,7 +26,7 @@ It was created for the SEEED XIAO keyboard contest.\
 
 ## CASE
 
-You can use the TOTEM without a case, but [here](/case/) you can find one, I made for it.
+You can use the TOTEM without a case, but [here](/case/) you can find one I made for it.
 
 ***
 
@@ -51,6 +51,11 @@ This is the TOTEM in a black resin case
 ![TOTEM black resin](/docs/images/TOTEM_black_top.jpg)\
 ![TOTEM black resin](/docs/images/TOTEM_black_bottom.jpg)
 
+***
+
+## BUY 
+
+You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (unfortunately Europe only for now)
 
 ***
 
@@ -58,11 +63,11 @@ This is the TOTEM in a black resin case
 
 ### INSPIRATION
 
-I've added the additional pinky key to make the TOTEM compatible with the layout boards like the [Balbuzard](https://github.com/brow/balbuzard) by [Tom Brow](https://github.com/brow) and the [Osprette](https://github.com/smores56/osprette) by [Sam Mohr](https://github.com/smores56) uses, where you put the keybinding of the top left and right keys on an outer pinky key.
+I've added the additional pinky key to make the TOTEM compatible with the layout boards like the [Balbuzard](https://github.com/brow/balbuzard) by [Tom Brow](https://github.com/brow) and the [Osprette](https://github.com/smores56/osprette) by [Sam Mohr](https://github.com/smores56) use, where you put the keybinding of the top left and right keys on an outer pinky key.
 
 ### HELP FIXING THINGS
 
-People which helped me creating this board and fixing stuff
+People who helped me create this board and fix stuff
 
 #### PCB
 - [Marco "Bob"](https://github.com/GroooveBob)
@@ -73,7 +78,7 @@ People which helped me creating this board and fixing stuff
 
 #### FIRMWARE
 - [Cem Aksoylar](https://github.com/caksoylar)
-- [Grinnie](https://github.com/grinnie)
+- [Grinnie](https://github.com/regicidalplutophage)
 - [Alaa Saad Mansour](https://github.com/AlaaSaadAbdo)
 - [pekudzu](https://github.com/pekudzu)
 
